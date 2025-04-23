@@ -1,0 +1,352 @@
+{
+  "An Giang": {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Long Xuyên": ["Cửa hàng nhận thưởng", "22/4 Trần Hưng Đạo, P.Mỹ Xuyên, Tp. Long Xuyên, Tỉnh An Giang","814 Hà Hoàng Hổ, Tp. Long Xuyên, tỉnh An Giang"],
+	  "Thành phố Châu Đốc": ["Cửa hàng nhận thưởng", "234 Nguyễn Văn Thoại, Phường Châu Phú A, TP. Châu Đốc, An Giang"]
+  },
+  "Bà Rịa - Vũng Tàu": {
+	  "Chọn Quận / Huyện":["Cửa hàng nhận thưởng"], 
+	  "Thành phố Vũng Tàu":["Cửa hàng nhận thưởng", "292 Lê Hồng Phong, Phường 4, Thành phố Vũng Tàu, Tỉnh Bà Rịa Vũng Tàu", "307 Nguyễn An Ninh, Phường 9, Vũng Tàu, Bà Rịa Vũng Tàu"], 
+	  "Thành phố Bà Rịa":["Cửa hàng nhận thưởng", "85 Nguyễn Hữu Thọ, Phường Phước Trung ,Thành phố Bà Rịa, Tỉnh Bà Rịa Vũng Tàu", "602 CMT8, Phường Phước Trung, Tp. Bà Rịa, tỉnh Bà Rịa Vũng Tàu"]
+  },
+
+  "Bắc Giang":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Bắc Giang": ["Cửa hàng nhận thưởng", "Số 135B Hoàng Văn Thụ, phường Hoàng Văn Thụ, TP Bắc Giang, Tỉnh Bắc Giang", "Số 124 Lê Lợi, Phường Lê Lợi, TP Bắc Giang, Tỉnh Bắc Giang", "Số 106 Nguyễn Thị Lưu 2, Phường Ngô Quyền, TP Bắc Giang, Tỉnh Bắc Giang"]
+	  },
+  "Bắc Kạn":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Bắc Kạn": ["Cửa hàng nhận thưởng", "Số 73 Trường Chinh, Phường Đức Xuân, TP Bắc Kạn, tỉnh Bắc Kạn"]
+	  },
+  "Bạc Liêu":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Bạc Liêu": ["Cửa hàng nhận thưởng", "71 hoặc 90/2 Trần Phú, khóm 4, Phường 7, Thành phố Bạc Liêu, Tỉnh Bạc Liêu", "125B/1 Trần Huỳnh, khóm 4, phường 7, thành phố Bạc Liêu, tỉnh Bạc Liêu"]
+	  },
+  "Bắc Ninh":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Bắc Ninh": ["Cửa hàng nhận thưởng", " Số 119 Nguyễn Gia Thiều, Phường Suối Hoa, TP Bắc Ninh, Tỉnh Bắc Ninh", "77 Nguyễn Cao, Phường Ninh Xá, TP Bắc Ninh, tỉnh Bắc Ninh", "Số 372 Ngô Gia Tự, Phường Tiền An, TP Bắc Ninh, Tỉnh Bắc Ninh"], 
+	  "Thành phố Từ Sơn": ["Cửa hàng nhận thưởng", "Số 82 Trần Phú, Phường Đông Ngàn, TP Từ Sơn, Tỉnh Bắc Ninh"], 
+	  "Huyện Yên Phong": ["Cửa hàng nhận thưởng", "Số 217 Văn Tiến Dũng, Phố Chờ, Thị Trấn Chờ, huyện Yên Phong, tỉnh Bắc Ninh"]
+	  },
+  "Bến Tre":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Bến Tre": ["Cửa hàng nhận thưởng", "106 Nguyễn Đình Chiểu, P. An Hội, TP Bến Tre, Tỉnh Bến Tre", "56C Đại Lộ Đồng Khởi, KP6, P.Phú Khương, Tp.Bến Tre"]
+	  },
+  "Bình Định":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Quy Nhơn": ["Cửa hàng nhận thưởng", "140 Trần Hưng Đạo, phường Hải Cảng, Tp Quy Nhơn, tỉnh Bình Định", "277 Nguyễn Thái Học, phường Ngô Mây, Tp Quy Nhơn, tỉnh Bình Định", "279 Nguyễn Huệ, phường Trần Phú, Tp Quy Nhơn, tỉnh Bình Định"], 
+	  "Thị xã An Nhơn": ["Cửa hàng nhận thưởng", "185 Trần Phú, phường Bình Định, thị xã An Nhơn, tỉnh Bình Định"]
+	  },
+  "Bình Dương":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Thủ Dầu Một": ["Cửa hàng nhận thưởng", "189 Đường Yersin, Phường Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương", "333 Đường 30 Tháng 4, KP4, Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương"], 
+	  "Thành phố Thuận An": ["Cửa hàng nhận thưởng", "161 CMT8, Phường Lái Thiêu, TP.Thuận An, tỉnh Bình Dương "], 
+	  "Thành phố Dĩ An": ["Cửa hàng nhận thưởng", "31 Trần Hưng Đạo, P. Đông Hòa, TP. Dĩ An, tỉnh Bình Dương", "12 Nguyễn Thái Học, Kp Bình Minh 1, Phường Dĩ An, TP Dĩ An, Bình Dương"]
+	  },
+  "Bình Phước":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Đồng Xoài": ["Cửa hàng nhận thưởng", "479 Đường Quốc Lộ 14, Phường Tân Bình, Thành phố Đồng Xoài, Tỉnh Bình Phước", "134 Hùng Vương, P Tân Bình,TP Đồng Xoài, tỉnh Bình Phước"]
+	  },
+  "Bình Thuận":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Phan Thiết": ["Cửa hàng nhận thưởng", "142 đường Thủ Khoa Huân, Phường Bình Hưng, Thành phố Phan Thiết, Tỉnh Bình Thuận", "492 Trần Hưng Đạo, Khu phố 3, Phường Lạc Đạo, Thành phố Phan Thiết, tỉnh Bình Thuận", "127 Trần Hưng Đạo, P. Phú Thủy, Tp. Phan Thiết, tỉnh Bình Thuận"], 
+	  "Thị xã La Gi": ["Cửa hàng nhận thưởng", "08 Thống Nhất,Khu phố 3, Phường Phước Hội, Thị xã Lagi, tỉnh Bình Thuận"]
+	  },
+  "Cà Mau":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Cà Mau": ["Cửa hàng nhận thưởng", "50 Trần Hưng Đạo, Phường 5, Tp.Cà Mau, Tỉnh Cà Mau", "58 Đề Thám, Phường 2, Tp.Cà Mau, tỉnh Cà Mau"]
+	  },
+  "Cần Thơ":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Quận Ninh Kiều": ["Cửa hàng nhận thưởng", "95C Mậu Thân, Phường Xuân Khánh, Quận Ninh Kiều, Thành phố Cần Thơ", "36 Trần Việt Châu, Phường An Hòa, Quận Ninh Kiều , Thành phố Cần Thơ", "304 đường 30/4, Phường Xuân Khánh, TP.Cần Thơ, tỉnh Cần Thơ"], 
+	  "Quận Bình Thủy": ["Cửa hàng nhận thưởng", "16/9 Lê Hồng Phong, Phường Bình Thủy, Quận Bình Thủy, Thành phố Cần Thơ"], 
+	  "Quận Cái Răng": ["Cửa hàng nhận thưởng", "164/6 Phạm Hùng, Phường Lê Bình, Quận Cái Răng, Cần Thơ"]
+	  },
+  "Cao Bằng":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Cao Bằng": ["Cửa hàng nhận thưởng", " Số 49 Kim Đồng, Tổ 11, Phường Hợp Giang, TP Cao Bằng, Tỉnh Cao Bằng "]
+	  },
+  "Đà Nẵng":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Quận Cẩm Lệ": ["Cửa hàng nhận thưởng", "169 Ông Ích Đường, phường Khuê Trung, quận Cẩm Lệ, Tp Đà Nẵng"], 
+	  "Quận Hải Châu": ["Cửa hàng nhận thưởng", "370 -372 Hoàng Diệu, phường Bình Thuận, quận Hải Châu, Tp Đà Nẵng", "152 Nguyễn Hữu Thọ, phường Hòa Thuận Tây, quận Hải Châu, Tp Đà Nẵng", "397 Núi Thành, phường Hòa Cường Bắc, quận Hải Châu, Tp Đà Nẵng", "165 Đống Đa, phường Thạch Thang, quận Hải Châu, Tp Đà Nẵng"], 
+	  "Quận Liên Chiểu": ["Cửa hàng nhận thưởng", "72 Âu Cơ, phường Hòa Khánh Bắc, quận Liên Chiểu, Tp  Đà Nẵng"], 
+	  "Quận Sơn Trà": ["Cửa hàng nhận thưởng", "123 Nguyễn Văn Thoại, phường An Hải Đông, quận Sơn Trà, Tp Đà Nẵng "], 
+	  "Quận Thanh Khê": ["Cửa hàng nhận thưởng", "339 Hùng Vương , phường Vĩnh Trung, quận Thanh Khê, Tp Đà Nẵng", "442 Trần Cao Vân, phường Xuân Hà, quận Thanh Khê, Tp Đà Nẵng", "425 Điện Biên Phủ, phường Hòa Khê, quận Thanh Khê, Tp Đà Nẵng"]
+	  },
+  "Đắk Lắk":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Buôn Ma Thuột": ["Cửa hàng nhận thưởng", "12 Phan Bội Châu, phường Thắng Lợi, Tp Buôn Ma Thuột, tỉnh Đắk Lắk", "229 Phan Chu Trinh, phường Tân Lợi, Tp Buôn Ma Thuột, tỉnh Đắk Lắk", "88 Nguyễn Tất Thành, phường Tân Lập, Tp Buôn Ma Thuột, tỉnh Đắk Lắk"], 
+	  "Thị xã Buôn Hồ": ["Cửa hàng nhận thưởng", "71 Trần Hưng Đạo, phường An Lạc, thị xã Buôn Hồ, tỉnh Đắk Lắk"]
+	  },
+  "Đắk Nông":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Gia Nghĩa": ["Cửa hàng nhận thưởng", "40 Huỳnh Thúc Kháng, phường Nghĩa Thành, Tp Gia Nghĩa, tỉnh Đắk Nông", "24 Chu Văn An, phường Nghĩa Thành, Tp Gia Nghĩa, tỉnh Đắk Nông"]
+	  },
+  "Điện Biên":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Điện Biên Phủ": ["Cửa hàng nhận thưởng", " Số 265 Nguyễn Chí Thanh, Phường Mường Thanh, TP Điện Biên Phủ, tỉnh Điện Biên", "Số 579 Võ Nguyên Giáp, tổ 1, Phường Tân Thanh, TP Điện Biên Phủ, Tỉnh Điện Biên"]
+	  },
+  "Đồng Nai":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Biên Hòa": ["Cửa hàng nhận thưởng", "4/21 KP4, Phường Hố Nai, Thành phố Biên Hòa, Tỉnh Đồng Nai", "118 Đường Đồng Khởi, Khu Phố 4, Phường Tân Hiệp, Thành phố Biên Hòa, Tỉnh Đồng Nai", "1489 Phạm Văn Thuận, phường Thống Nhất thành phố Biên Hòa, tỉnh Đồng Nai", "157 đường 30/4, Phường Trung Dũng, TP. Biên Hòa, Tỉnh Đồng Nai", "1070 Nguyễn Ái Quốc, Phường Tân Phong, TP.Biên Hòa, Đồng Nai"],
+	  "Thành phố Long Khánh": ["Cửa hàng nhận thưởng", "N22 Hùng Vương, Phường Xuân Bình, Thành phố Long Khánh, Tỉnh Đồng Nai", "116 Trần Phú, P.Xuân An, Long Khánh, Đồng Nai"]
+	  },
+  "Đồng Tháp":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Cao Lãnh": ["Cửa hàng nhận thưởng", "92 Hùng Vương, Phường 2, Thành phố Cao Lãnh, Tỉnh Đồng Tháp", "227 Ngô Thì Nhậm, Phường 1, TP.Cao Lãnh, tỉnh Đồng Tháp", "29A đường 30/4, Phường 1, TP Cao Lãnh, Đồng Tháp"],
+	  "Thành phố Sa Đéc": ["Cửa hàng nhận thưởng", "353A Đường Hùng Vương, Khóm 4, Phường 1, Thành phố Sa Đéc, Tỉnh Đồng Tháp"],
+	  "Thành phố Hồng Ngự": ["Cửa hàng nhận thưởng", "106 Hùng Vương, P.An Thanh, TX.Hồng Ngự, tỉnh Đồng Tháp"]
+	  },
+  "Gia Lai":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Pleiku": ["Cửa hàng nhận thưởng", "68 Hùng Vương, phường Hội Thương, Tp Pleiku, tỉnh Gia Lai", "19A Phan Đình Phùng, phường Tây Sơn, Tp Pleiku, tỉnh Gia Lai", "162B Hai Bà Trưng, phường Yên Đỗ, Tp Pleiku, tỉnh Gia Lai"]
+	  },
+  "Hà Giang":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Hà Giang": ["Cửa hàng nhận thưởng", "Số 115 Nguyễn Thái Học, phường Minh Khai, TP Hà Giang, tỉnh Hà Giang", "Số 351 Nguyễn Trãi, phường Nguyễn Trãi, TP Hà Giang, tỉnh Hà Giang"]
+	  },
+  "Hà Nam":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Phủ Lý": ["Cửa hàng nhận thưởng", "Số 117 Lê Công Thanh, Phường Hai Bà Trưng, TP Phủ Lý, Tỉnh Hà Nam", "363 Lý Thường Kiệt, Phường Lê Hồng Phong, TP Phủ Lý, Hà Nam"]
+	  },
+  "Hà Nội":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Huyện Chương Mỹ": ["Cửa hàng nhận thưởng", "Số 16 Tổ 2 - Thị Trấn Xuân Mai, Huyện Chương Mỹ, TP Hà Nội", "Số 58 Quan Nhân, Phường Trung Hòa, Quận Cầu Giấy, TP Hà Nội", "Số 49 Bắc Sơn, Thị trấn Chúc Sơn, Huyện Chương Mỹ, Hà Nội"],
+	  "Huyện Đan Phượng": ["Cửa hàng nhận thưởng", "Số 182 Nguyễn Thái Học,Thị Trấn Phùng, huyện Đan Phượng, TP Hà Nội"],
+	  "Huyện Đông Anh": ["Cửa hàng nhận thưởng", "số 283 Cao Lỗ, Xã Uy Nỗ, Huyện Đông Anh, TP Hà Nội"],
+	  "Huyện Gia Lâm": ["Cửa hàng nhận thưởng", "Số 406 Hà Huy Tập, thị trấn Yên Viên, Huyện Gia Lâm, TP Hà Nội", "Số 44 Ngô Xuân Quảng, Thị trấn Trâu Quỳ, huyện Gia Lâm, TP Hà Nội", "HD09-SP.BH-16 Vinhomes Ocean park, Thị trấn Trâu Quỳ, Huyện Gia Lâm, TP Hà Nội"],
+	  "Huyện Hoài Đức": ["Cửa hàng nhận thưởng", "Khu 6, thị trấn Trạm Trôi, huyện Hoài Đức, TP Hà Nội"],
+	  "Huyện Sóc Sơn": ["Cửa hàng nhận thưởng", "Số 90 Núi Đôi, Thị Trấn Sóc Sơn, Huyện Sóc Sơn, TP Hà Nội"],
+	  "Quận Ba Đình": ["Cửa hàng nhận thưởng", "151 Đốc Ngữ, Phường Liễu Giai, Quận Ba Đình, TP Hà Nội", "Số 210 Đội Cấn, Phường Đội Cấn, Quận Ba Đình, TP Hà Nội", "113 Núi Trúc, Phường Kim Mã, quận Ba Đình, TP Hà Nội", "Số 798 La Thành, phường Giảng Võ, quận Ba Đình , TP Hà Nội"],
+	  "Quận Bắc Từ Liêm": ["Cửa hàng nhận thưởng", " Số 165 Xuân Đỉnh, Phường Xuân ĐỈnh, Quận Bắc Từ Liêm, TP Hà Nội", "Số 221 Cổ Nhuế, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, TP Hà Nội.", "Shophouse 09 tòa S6 khu Sunshine City, Phường Đông Ngạc, Quận Bắc Từ Liêm, TP Hà Nội"],
+	  "Quận Cầu Giấy": ["Cửa hàng nhận thưởng", "Số 10 Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, TP Hà Nội", "Số 34 Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, TP Hà Nội", "Số 45 Vũ Phạm Hàm, phường Yên Hòa, quận Cầu Giấy, TP Hà Nội", "Số 22 Nguyễn Phong Sắc, phường Dịch Vọng, Quận Cầu Giấy, TP Hà Nội", "195 Yên Hòa, phường Yên Hòa, Quận Cầu Giấy, TP Hà Nội", "Số 235 Doãn Kế Thiện, phường Mai Dịch, quận Cầu Giấy, TP Hà Nội"],
+	  "Quận Đống Đa": ["Cửa hàng nhận thưởng", "Số 12 Đông Tác, Phường Kim Liên, Quận Đống Đa, TP Hà Nội", "Số 148 Tây Sơn, Phường Quang Trung, Quận Đống Đa, TP Hà Nội", "131 Đê La Thành, Phường Ô Chợ Dừa, Quận Đống Đa, TP Hà Nội", "Số 06 Chùa Bộc, Phường Quang Trung, Quận Đống Đa, TP Hà Nội", "221A Khâm Thiên, Phường Thổ Quan, Quận Đống Đa, TP Hà Nội", "Số 37 Ngô Sĩ Liên, Phường Văn Miếu, Quận Đống Đa, TP Hà Nội", "85 phố Thái Thịnh, tổ 30, phường Thịnh Quang, Quận Đống Đa, TP Hà Nội"],
+	  "Quận Hà Đông": ["Cửa hàng nhận thưởng", "Số 50 Phùng Hưng, Phường Phúc La, Quận Hà Đông, TP Hà Nội", "Nhà LK6C-16 Làng Việt Kiều Châu Âu, khu đô thị mới Mỗ Lao, Phường Mỗ Lao, Quận Hà Đông, TP Hà Nội", "Số 476 Quang Trung, Phường La Khê, Quận Hà Đông, TP Hà Nội", "Số 130 Vạn Phúc, phường Vạn Phúc, quận Hà Đông, TP Hà Nội", "Số 111 Tô Hiệu, phường Nguyễn Trãi, quận Hà Đông, TP Hà Nội", "Số 78 Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, TP Hà Nội", "Số U8-L02 khu D, khu đô thi mới Dương Nội, phường Yên Nghĩa, quận Hà Đông, TP Hà Nội", "Số 172 Nguyễn Viết Xuân, phường Hà Cầu, quận Hà Đông, TP Hà Nội" ,"Lô 27 – LK4 Khu đô thị mới Văn Khê, Phường La Khê, Quận Hà Đông, TP Hà Nội"],
+	  "Quận Hai Bà Trưng": ["Cửa hàng nhận thưởng", "Số 165 Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, TP Hà Nội", "Số 296 Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội", "Số 78 Lò Đúc, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, TP Hà Nội", "Số 152 Bạch Mai, Phường Cầu Dền, Quận Hai Bà Trưng, TP Hà Nội", " Số 104 Kim Ngưu, Phường Thanh Nhàn, Quận Hai Bà Trưng, TP Hà Nội", "Số 388 Minh Khai, phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội", "Số 68 Võ Thị Sáu, Phường Thanh Nhàn, Quận Hai Bà Trưng, TP Hà Nội", "SO-02A tầng 1, nhà T05 KĐT Vinhomes Times City, Số 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội"],
+	  "Quận Hoàn Kiếm": ["Cửa hàng nhận thưởng", "Số 2A Hàng Lược, Phường Hàng Mã, Quận Hoàn Kiếm, TP Hà Nội", " 06 Tràng Tiền, Phường Tràng Tiền, Quận Hoàn Kiếm, TP Hà Nội", "135 Hàng Bông, Phường Hàng Bông, Quận Hoàn Kiếm, TP Hà Nội"],
+	  "Quận Hoàng Mai": ["Cửa hàng nhận thưởng", "Số 19 Nguyễn An Ninh, phường Tương Mai, quận Hoàng Mai, TP Hà Nội", "603H1 Tân Mai, Phường Tân mai, Quận Hoàng Mai, TP Hà Nội", "Kiot số 26, tòa nhà HH1B KĐT Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, TP Hà Nội", "111 Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, TP Hà Nội", "87 Thanh Đàm, Phường Thanh Trì, Quận Hoàng Mai, TP Hà Nội", " Số 92 Kim Giang, Phường Đại Kim, Quận Hoàng Mai, TP Hà Nội" ,"Số 77 Vĩnh Hưng, Tổ 15, phường Vĩnh Hưng, quận Hoàng Mai, TP Hà Nội", "Số 193 Định Công, Phường Định Công, Quận Hoàng Mai, TP Hà Nội", "1A - Lô TT6 dãy M3 Bắc Linh Đàm, Phường Đại Kim, Quận Hoàng Mai, TP Hà Nội"],
+	  "Quận Long Biên": ["Cửa hàng nhận thưởng", "27 Xuân La, phường Xuân La, quận Tây Hồ, TP Hà Nội", "Số 70 Sài Đồng, Phường Sài Đồng, Quận Long Biên, TP Hà Nội", "Số 291 Ngọc Lâm, Phường Ngọc Thụy, Quận Long Biên, TP Hà Nội", "Số 188 Nguyễn Văn Cừ, Phường Bồ Đề, Quận Long Biên, TP Hà Nội", "Số 94 Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, TP Hà Nội", "Số 198 Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, TP Hà Nội"],
+	  "Quận Nam Từ Liêm": ["Cửa hàng nhận thưởng", "Số 7, Khu Tập Thể K40-Z191, Hồ Tùng Mậu, Phường Cầu Diễn, Quận Nam Từ Liêm, TP Hà Nội", "Số 455 Đại Mỗ, phường Đại Mỗ, quận Nam Từ Liêm, TP Hà Nội", "B3-05A Vinhomes Gardenia Hàm Nghi, Phường Mỹ Đình, Quận Nam Từ Liêm, TP Hà Nội", "Shophouse ML6 - 43 Vinhomes Greenbay, Phường Mễ Trì, Quận Nam Từ Liêm, TP Hà Nội"],
+	  "Quận Tây Hồ": ["Cửa hàng nhận thưởng", "Số 128 Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, TP Hà Nội", "96 Yên Phụ, Phường Yên Phụ, Quận Tây Hồ, TP Hà Nội"],
+	  "Quận Thanh Xuân": ["Cửa hàng nhận thưởng", "152 Phố Vọng, Phường Phương Liệt, Quận Thanh Xuân, TP Hà Nội", "Số 68 Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, TP Hà Nội", "Số 228 Lê Trọng Tấn, Phường Khương Mai, Quận Thanh Xuân, TP Hà Nội", "SO 09 Royal city, tầng 1, tòa R2, 72 Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, TP Hà Nội", "41 Vương Thừa Vũ, Phường Khương Mai, Quận Thanh Xuân, TP Hà Nội", "Số 145 Khương Trung, Phường Khương Trung, Quận Thanh Xuân, TP Hà Nội"],
+	  "Sơn Tây": ["Cửa hàng nhận thưởng", "Số 326 Chùa thông, phường Sơn Lộc, thị xã Sơn Tây, TP Hà Nội"]
+	  },
+  "Hà Tĩnh":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Hà Tĩnh": ["Cửa hàng nhận thưởng", "23 Phan Đình Giót, phường Nam Hà, Tp Hà Tĩnh, tỉnh Hà Tĩnh", "59 Trần Phú, phường Trần Phú, Tp Hà Tĩnh, tỉnh Hà Tĩnh", "68 Nguyễn Thị Minh Khai, phường Trần Phú, Tp Hà Tĩnh, tỉnh Hà Tĩnh"],
+	  "Thị xã Kỳ Anh": ["Cửa hàng nhận thưởng", "110 Lê Đại Hành, phường Hưng Trí, thị xã Kỳ Anh, tỉnh Hà Tĩnh"],
+	  "Thị xã Hồng Lĩnh": ["Cửa hàng nhận thưởng", "45 Trần Phú, phường Nam Hồng, thị xã Hồng Lĩnh, tỉnh Hà Tĩnh"]
+	  },
+  "Hải Dương":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Hải Dương": ["Cửa hàng nhận thưởng", "Số 23 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, TP Hải Dương, Tỉnh Hải Dương", "128 Ngô Quyền, phường Tân Bình, TP Hải Dương, tỉnh Hải Dương"],
+	  "Thành phố Chí Linh": ["Cửa hàng nhận thưởng", "Số 121 Thái Học 1, Phường Sao Đỏ, TP Chí Linh, tỉnh Hải Dương"]
+	  },
+  "Hải Phòng":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Huyện An Dương": ["Cửa hàng nhận thưởng", "Số 7 Lô Liền Kề 2 khu nhà ở xã hội, xã An Đồng, huyện An Dương, TP Hải Phòng"],
+	  "Huyện Thủy Nguyên": ["Cửa hàng nhận thưởng", " Số 119 Bạch Đằng 1, thị trấn Núi Đèo, Huyện Thủy Nguyên, TP Hải Phòng "],
+	  "Quận Hải An": ["Cửa hàng nhận thưởng", "Số 477 Ngô Gia Tự, Phường Cát Bi, Quận Hải An, TP Hải Phòng"],
+	  "Quận Hồng Bàng": ["Cửa hàng nhận thưởng", " Số 49 khu BH 01 - ô số 13 lô OTM - 5 Khu đô Thị Vinhomes Imperia phường Thượng lý, quận Hồng Bàng, TP Hải Phòng "],
+	  "Quận Kiến An": ["Cửa hàng nhận thưởng", "Số 8 Lê Quốc Uy, Phường Bắc Sơn, Quận Kiến An, TP Hải Phòng"],
+	  "Quận Lê Chân": ["Cửa hàng nhận thưởng", "Số 232 Trần Nguyên Hãn, phường Trần Nguyên Hãn, quận Lê Chân, TP Hải Phòng", "Số 135 Hai Bà Trưng, Phường Cát Dài, Quận Lê Chân, TP Hải Phòng", "181 Hàng Kênh, Phường Hàng Kênh, Quận Lê Chân, TP Hải Phòng"],
+	  "Quận Ngô Quyền": ["Cửa hàng nhận thưởng", "Số 182 Đà Nẵng, Phường Lạc Viên, Quận Ngô Quyền, TP Hải Phòng", "98 Lạch Tray, Phường Lạch Tray, Quận Ngô Quyền, TP Hải Phòng"]
+	  },
+  "Hậu Giang":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Ngã Bảy": ["Cửa hàng nhận thưởng", "1017 Hùng Vương, TP. Ngã Bảy, tỉnh Hậu Giang"],
+	  "Thành phố Vị Thanh": ["Cửa hàng nhận thưởng", "37 Nguyễn Công Trứ, Phường 1, Tp.Vị Thanh, Hậu Giang"]
+	  },
+  "Hồ Chí Minh":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Huyện Bình Chánh": ["Cửa hàng nhận thưởng", "D15/5 Đinh Đức Thiện, ấp 4, Xã Bình Chánh, H.Bình Chánh, Tp.HCM", " F1/8A Ấp 6, Xã Vĩnh Lộc A, Huyện Bình Chán, HCM"],
+	  "Huyện Củ Chi": ["Cửa hàng nhận thưởng", "213 Tỉnh Lộ 8, Khu phố 3, Thị Trấn Củ Chị, Huyện Củ Chi, Tp.HCM"],
+	  "Huyện Hóc Môn": ["Cửa hàng nhận thưởng", "30/1Đ Ấp Nam Lân, Xã Bà Điểm, Huyện Hóc Môn, Tp.HCM", "241A Đặng Thúc Vịnh, ấp Tam Đông, xã Thới Tam Thôn, Huyện Hóc Môn, Tp.HCM"],
+	  "Huyện Nhà Bè": ["Cửa hàng nhận thưởng", "107 Nguyễn Văn Tạo, ấp 3, xã Long Thới, huyện Nhà Bè, TP.HCM", "1734 Huỳnh Tấn Phát, Thị trấn Nhà Bè, Nhà Bè, Tp.HCM"],
+	  "Quận 1": ["Cửa hàng nhận thưởng", "222 Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, Tp.HCM", "122A Trần Đình Xu, Phường Nguyễn Cư Trinh, Quận 1, Tp.HCM", "164B Bùi Thị Xuân, P.Phạm Ngũ Lão, Quận 1, Tp.HCM"],
+	  "Quận 10": ["Cửa hàng nhận thưởng", "300 Bà Hạt, Phường 9, Quận 10, Tp.HCM", "84 Trần Nhân Tôn, Phường 2, Quận 10, Tp.HCM", "81A Tô Hiến Thành, Phường 13, Quận 10, Tp.HCM", "55 Lý Thái Tổ, Phường 1, Quận 10, Tp.HCM"],
+	  "Quận 11": ["Cửa hàng nhận thưởng", "810-812 Nguyễn Chí Thanh, Phường 4, Quận 11, Tp.HCM", "3 Hòa Bình, Phường 3, Quận 11, Tp.HCM", "223 Âu Cơ, Phường 5, Quận 11, Tp.HCM", "345 Minh Phụng, Phường 2, Quận 11, Tp.HCM", "177 Lê Đại Hành, Phường 13, Quận 11, Tp. HCM", "146 Nguyễn Thị Nhỏ, Phường 15, Quận 11, Tp.HCM"],
+	  "Quận 12": ["Cửa hàng nhận thưởng", "1174 Nguyễn Văn Quá, Phường Tân Thới Hiệp, Quận 12, Tp. HCM", "32H Nguyễn Ảnh Thủ, Phường Hiệp Thành, Quận 12, Tp.HCM"],
+	  "Quận 2": ["Cửa hàng nhận thưởng", "362 Nguyễn Thị Định, Phường Thạnh Mỹ Lợi, Quận 2, Tp.HCM", "536 Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, Tp.HCM", "35 Quốc Hương, Phường Thảo Điền, Quận 2, Tp.HCM"],
+	  "Quận 3": ["Cửa hàng nhận thưởng", "5 Trần Quốc Toản, Phường 8, Quận 3, Tp.HCM", "425-427 Điện Biên Phủ, Phường 3, Quận 3, Tp.HCM", "306 Nguyễn Thị Minh Khai, Phường 5, Quận 3, Tp. HCM", "67C Nguyễn Thông, Phường 09, Quận 3, Tp.HCM", "38 Nguyễn Thiện Thuật, Phường 2, Quận 3, Tp.HCM"],
+	  "Quận 4": ["Cửa hàng nhận thưởng", "3 Tôn Đản, Phường 13, Quận 4, Tp.HCM", " 303 Hoàng Diệu, Phường 6, Quận 4, Tp.HCM"],
+	  "Quận 5": ["Cửa hàng nhận thưởng", "84 Trần Bình Trọng, Phường 1, Quận 5, Tp.HCM", "1137 Trần Hưng Đạo, Phường 5, Quận 5, TP.HCM"],
+	  "Quận 6": ["Cửa hàng nhận thưởng", "2 Phạm Đình Hổ, Phường 1, Quận 6, Tp.HCM", "92D Hậu Giang, Phường 6, Quận 6, Tp.HCM", "446 Nguyễn Văn Luông, Phường 12, Quận 6, Tp.HCM", "241A Bà Hom, Phường 13, Quận 6, Tp. HCM", "986 Hậu Giang, Phường 12, Quận 6, Tp.HCM", "15 Phạm Đình Hổ, Phường 2, Quận 6, Tp.HCM"],
+	  "Quận 7": ["Cửa hàng nhận thưởng", "303 Nguyễn Thị Thập, Phường Tân Phú, Quận 7, Tp.HCM", "54 Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Tp.HCM", " 15 Mai Văn Vĩnh, Phường Tân Kiểng, Quận 7, Tp.HCM", "310 Huỳnh Tấn Phát, Phường Tân Thuận Tây, Quận 7, Tp.HCM"],
+	  "Quận 8": ["Cửa hàng nhận thưởng", "231 Phạm Hùng, Phường 4, Quận 8, Tp.HCM", "44 Nguyễn Thị Tần, Phường 3, Quận 8, Tp.HCM", "1054 Phạm Thế Hiển, Phường 5, Quận 8, Tp.HCM", " 290B/5 đường Dương Bá Trạc, Phường 1, Quận 8, HCM", "84 Liên tỉnh 5, Phường 6, Quận 8, Tp. HCM"],
+	  "Quận 9": ["Cửa hàng nhận thưởng", "128 Đỗ Xuân Hợp, Phường Phước Long A, Quận 9, Tp.HCM", "148A Tây Hòa, Phường Phước Long A, Quận 9, Tp.HCM"],
+	  "Quận Bình Tân": ["Cửa hàng nhận thưởng", "88 Đường số 1, Phường Bình Trị Đông B, Quận Bình Tân, Tp.HCM", "664 Tỉnh Lộ 10, Phường Bình Trị Đông, Quận Bình Tân, Tp.HCM", "131 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Tp.HCM", "495 Nguyễn Thị Tú, KP2, P.Bình Hưng Hòa B, Quận Bình Tân, Tp.HCM", "349 An Đương Vương, Khu phố 5, Phường An Lạc, Q. Bình Tân, HCM"],
+	  "Quận Bình Thạnh": ["Cửa hàng nhận thưởng", "126 Lê Quang Định, Phường 14, Quận Bình Thạnh, Tp.HCM", "244 Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Tp.HCM", "29 Phan Văn Trị,Phường 14,Quận Bình Thạnh, Tp.HCM", "12 Phan Văn Hân - Phường 19 - Q. Bình Thạnh - Tp. HCM", " 212 Nơ Trang Long, Phường 12, Quận Bình Thạnh, TP.HCM", "155 Nguyễn Văn Thương, Phường 25, Quận Bình Thạnh, Tp.HCM"],
+	  "Quận Gò Vấp": ["Cửa hàng nhận thưởng", "390 hoặc 61 Bis Nguyễn Oanh, Phường 6, Quận Gò Vấp, Tp.HCM", "799 Phan Văn Trị, Phường 7, Quận Gò Vấp, Tp.HCM", "39 Đường số 3, Phường 11, Quận Gò Vấp, Tp.HCM", "542 Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Tp.HCM", "217 Lê Văn Thọ, Phường 9, Quận Gò Vấp, Tp.HCM", "477 Thống Nhất, Phường 16, Quận Gò Vấp, Tp.HCM", "523A Lê Quang Định, Phường 1, Quận Gò Vấp, Tp.HCM", "415 Phan Huy Ích, Phường 14, Quận Gò Vấp, Tp.HCM", "893 Lê Đức Thọ, Phường 16, Quận Gò Vấp, TP. Hồ Chí Minh", "921 Phạm Văn Bạch, Phường 12, Quận Gò Vấp, Tp.HCM"],
+	  "Quận Phú Nhuận": ["Cửa hàng nhận thưởng", "36A Phan Đăng Lưu, Phường 5, Quận Phú Nhuận, Tp.HCM", "155A Huỳnh Văn Bánh, Phường 12, Quận Phú Nhuận, Tp. HCM", "315 Phan Xích Long, Phường.1, Quận Phú Nhuận, Tp.HCM"],
+	  "Quận Tân Bình": ["Cửa hàng nhận thưởng", "45A Đồng Đen, Phường 13, Quận Tân Bình, Tp.HCM", "13 Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Tp.HCM", "766 Cách Mạng Tháng 8, Phường 5, Quận Tân Bình, Tp.HCM", "342 Cộng Hòa, Phường 13, Quận Tân Bình, Tp.HCM", "431 Lê Văn Sỹ, Phường 2, Quận Tân Bình, Tp. HCM", "5A Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Tp.HCM", "948 Âu Cơ, Phường 14, Quận Tân Bình, Tp.HCM"],
+	  "Quận Tân Phú": ["Cửa hàng nhận thưởng", "204 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Tp.HCM", "104 Vườn Lài, Phường Tân Thành, Quận Tân Phú, TP Hồ Chí Minh", "282 Lũy Bán Bích, Phường Hòa Thạnh, Quận Tân Phú, Tp.HCM", "68 Tân Qúy, Phường Tân Qúy, Quận Tân Phú, Tp.HCM", "03 Hoàng Thiều Hoa, Phường Hiệp Tân, Quận Tân Phú, Tp.HCM"],
+	  "Thành phố Thủ Đức": ["Cửa hàng nhận thưởng", "165 Hoàng Diệu, Phường Linh Chiểu, TP. Thủ Đức, HCM", "170 Linh Đông, Phường Linh Đông, TP. Thủ Đức, HCM", "667 Kha Vạn Cân, Phường Linh Tây, TP.Thủ Đức, HCM", "S101.01S04 toà S101 khu Rainbow, 512 Nguyễn Xiễn, P.Long Thạnh Mỹ, Q.9, TP Thủ Đức, HCM", "A2/4 (435) Lê Văn Việt, KP2, P.Tăng Nhơn Phú A, Quận 9, TP. Thủ Đức", "352 đường Tô Ngọc Vân, KP4, P.Tam Phú, TP.Thủ Đức, Tp.HCM", "316 Nguyễn Văn Tăng, P.Long Thạnh Mỹ,Q.9, Tp.Thủ Đức, HCM"]
+	  },
+  "Hòa Bình":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Hòa Bình": ["Cửa hàng nhận thưởng", " 473 Cù Chính Lan, Phường Phương Lâm, TP Hòa Bình, tỉnh Hòa Bình", "Số 76 tổ 1A Phường Tân Thịnh, TP Hòa Bình, Tỉnh Hòa Bình"]
+	  },
+  "Hưng Yên":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Hưng Yên": ["Cửa hàng nhận thưởng", "Số 45 Điện Biên, Phường Quang Trung, TP Hưng Yên, Tỉnh Hưng Yên", "116 đường Điện Biên, Phường Lê Lợi, TP Hưng Yên, Tỉnh Hưng Yên"],
+	  "Huyện Yên Mỹ": ["Cửa hàng nhận thưởng", " Đường 39a, thôn Liêu Thượng, xã Liêu Xá, huyện Yên Mỹ, tỉnh Hưng Yên "]
+	  },
+  "Khánh Hòa":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Nha Trang": ["Cửa hàng nhận thưởng", " 23 Cao Bá Quát, phường Phước Hòa, Tp Nha Trang, tỉnh Khánh Hòa", "46 Trường Sa, phường Vĩnh Nguyên, Tp Nha Trang, tỉnh Khánh Hòa", "14 đường 2 tháng 4, phường Vĩnh Phước, Tp Nha Trang, tỉnh Khánh Hòa", "262 Thống Nhất, phường Phương Sơn, Tp Nha Trang, tỉnh Khánh Hòa", "167 Nguyễn Thị Minh Khai, phường Phước Hòa, Tp Nha Trang, tỉnh Khánh Hòa", "24 Quang Trung, Phường Vạn Thắng, Nha Trang, Khánh Hòa"],
+	  "Thành phố Cam Ranh": ["Cửa hàng nhận thưởng", "2126 Hùng Vương,  phường Cam Lộc, Tp Cam Ranh, tỉnh Khánh Hòa"]
+	  },
+  "Kiên Giang":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Rạch Giá": ["Cửa hàng nhận thưởng", "160 Nguyễn Trung Trực, Phường Vĩnh Bảo, Thành phố Rạch Giá, Tỉnh Kiên Giang", "Lô L10-18 khu dân cư đường Phan Thị Ràng, phường An Hòa, Thành phố Rạch Giá, tỉnh Kiên Giang", "37 Mai Thị Hồng Hạnh, KP4, Phường Rạch Sỏi, TP Rạch Giá, Kiên Giang"],
+	  "Thành phố Phú Quốc": ["Cửa hàng nhận thưởng", "Số 301 Nguyễn Trung Trực, Thị Trấn Dương Đông, Huyện Phú Quốc, Tỉnh Kiên Giang"],
+	  "Thành phố Hà Tiên": ["Cửa hàng nhận thưởng", "198 Mạc Thiên Tích, KP1, Phường Pháo Đài, TP. Hà Tiên, tỉnh Kiên Giang"]
+	  },
+  "Kon Tum":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Kon Tum": ["Cửa hàng nhận thưởng", "325 Lê Hồng Phong, phường Quyết Thắng, Tp Kon Tum, tỉnh Kon Tum", "771 Phan Đình Phùng, phường Quang Trung, Tp Kon Tum, tỉnh Kon Tum"]
+	  },
+  "Lai Châu":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Lai Châu": ["Cửa hàng nhận thưởng", "226 Trần Phú,  Tổ 4B, Phường Tân Phong, TP Lai Châu, Tỉnh Lai Châu", "Số 144 Trần Hưng Đạo, Phường Đoàn Kết, TP Lai Châu, Tỉnh Lai Châu"]
+	  },
+  "Lâm Đồng":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Đà Lạt": ["Cửa hàng nhận thưởng", "20 Hai Bà Trưng, Phường 6, Thành Phố Đà Lạt, Tỉnh Lâm Đồng", "Số 108 Đường Phan Đinh Phùng, Phường 2, Thành phố Đà Lạt, Tỉnh Lâm Đồng"],
+	  "Thành phố Bảo Lộc": ["Cửa hàng nhận thưởng", "51A Hà Giang, Phường 1, TX Bảo Lộc, tỉnh Lâm Đồng "],
+	  "Huyện Đức Trọng": ["Cửa hàng nhận thưởng", "21 Phạm Văn Đồng, thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng"]
+	  },
+  "Lạng Sơn":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Lạng Sơn": ["Cửa hàng nhận thưởng", "446 Bà Triệu, phường Vĩnh Trại, TP Lạng Sơn, tỉnh Lạng Sơn", "Số 35 Trần Đăng Ninh, Khối 1, Phường Tam Thanh, TP Lạng Sơn, tỉnh Lạng Sơn"]
+	  },
+  "Lào Cai":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Lào Cai": ["Cửa hàng nhận thưởng", "537 Hoàng Liên, Phường Kim Tân, TP Lào Cai, Tỉnh Lào Cai", "Số 028A Hoàng Sào, tổ 3, phường Cốc Lếu, TP Lào Cai, tỉnh Lào Cai"]
+	  },
+  "Long An":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Tân An": ["Cửa hàng nhận thưởng", "32 Nguyễn Trung Trực, Phường 2, Thành phố Tân An, Tỉnh Long An", "81 Nguyễn Đình Chiểu, Phường 1, Thành Phố Tân An, Tỉnh Long An"],
+	  "Huyện Đức Hòa": ["Cửa hàng nhận thưởng", "258C Khu Vực 3, Thị Trấn Đức Hòa, Huyện Đức Hòa, Tỉnh Long An"]
+	  },
+  "Nam Định":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Nam Định": ["Cửa hàng nhận thưởng", "Số 370 Trần Hưng Đạo, Phường Bà Triệu, TP Nam Định, tỉnh Nam Định", "Số 86 Điện Biên, Phường Cửa Bắc, TP Nam Định, Tỉnh Nam Định"]
+	  },
+  "Nghệ An":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Huyện Diễn Châu": ["Cửa hàng nhận thưởng", "27 Quốc Lộ 1A Khối 4 thị trấn Diễn Châu, huyện Diễn Châu, tỉnh Nghệ An "],
+	  "Huyện Đô Lương": ["Cửa hàng nhận thưởng", "Khối 3, thị trấn Đô Lương, huyện Đô Lương, tỉnh Nghệ An"],
+	  "Huyện Nam Đàn": ["Cửa hàng nhận thưởng", "số 319 QL46 Khối Mai Hắc Đế, Thị trấn Nam Đàn, Huyện Nam Đàn, Tỉnh Nghệ An"],
+	  "Huyện Nghĩa Đàn": ["Cửa hàng nhận thưởng", "Xã Nghĩa Sơn, huyện Nghĩa Đàn, tỉnh Nghệ An "],
+	  "Huyện Quỳnh Lưu": ["Cửa hàng nhận thưởng", "265 Quốc Lộ 1A, khối 1, thị Trấn Cầu Giát, huyện Quỳnh Lưu, tỉnh Nghệ An"],
+	  "Thành phố Vinh": ["Cửa hàng nhận thưởng", "115 Quang Trung, phường Lê Lợi, Tp Vinh, tỉnh Nghệ An", "5 Nguyễn Văn Trỗi, phường Bến Thủy, Tp Vinh, tỉnh Nghệ An", "78 Nguyễn Phong Sắc, phường Hưng Dũng, Tp Vinh, tỉnh Nghệ An", "360 Nguyễn Văn Cừ, phường Hưng Phúc, Tp Vinh, tỉnh Nghệ An", "300 Hà Huy Tập, phường Hà Huy Tập, Tp Vinh, tỉnh Nghệ An", "21 Hồ Tùng Mậu, phường Trường Thi, Tp Vinh, tỉnh Nghệ An"],
+	  "Thị xã Thái Hòa": ["Cửa hàng nhận thưởng", "201 Nguyễn Trãi, phường Hoà Hiếu, thị xã Thái Hoà, tỉnh Nghệ An "]
+	  },
+  "Ninh Bình":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Ninh Bình": ["Cửa hàng nhận thưởng", "Số 854 Trần Hưng Đạo, phường Tân Thành, TP Ninh Bình, Tỉnh Ninh Bình", "315 Nguyễn Công Trứ, Phường Bích Đào, TP Ninh Bình, Tỉnh Ninh Bình"],
+	  "Thành phố Tam Điệp": ["Cửa hàng nhận thưởng", " Số 262 Quang Trung, Phường Bắc Sơn, TP Tam Điệp, Tỉnh Ninh Bình "]
+	  },
+  "Ninh Thuận":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Phan Rang-Tháp Chàm": ["Cửa hàng nhận thưởng", "287 đường Thống Nhât, Phường Thanh Sơn, Tp. Phan Rang - Cháp Chàm, Tỉnh Ninh Thuận", "257 Ngô Gia Tự, Phường Tấn Tài, Thành Phố Phan Rang, Tháp Chàm, Ninh Thuận"]
+	  },
+  "Phú Thọ":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Việt Trì": ["Cửa hàng nhận thưởng", "Số 1568 Đại lộ Hùng Vương, Phường Nông Trang, TP Việt Trì, Tỉnh Phú Thọ", " Số 136 Nguyễn Du, Phường Nông Trang, TP Việt Trì, Tỉnh Phú Thọ"],
+	  "Thị xã Phú Thọ": ["Cửa hàng nhận thưởng", "Số 8 Đinh Tiên Hoàng, Phường Hùng Vương, Thị xã Phú Thọ, Tỉnh Phú Thọ"]
+	  },
+  "Phú Yên":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thị xã Sông Cầu": ["Cửa hàng nhận thưởng", "34 Trần Hưng Đạo, phường Xuân Phú, thị xã Sông Cầu, tỉnh Phú Yên"],
+ 	  "Thành phố Tuy Hòa": ["Cửa hàng nhận thưởng", "89 Trần Hưng Đạo, phường 1, Tp Tuy Hòa, tỉnh Phú Yên ", "202 Đại lộ Hùng Vương, phường 7, Tp Tuy Hòa, tỉnh Phú Yên"]
+	  },
+  "Quảng Bình":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Đồng Hới": ["Cửa hàng nhận thưởng", "366 Trần Hưng Đạo, phường Nam Lý, Tp Đồng Hới, tỉnh Quảng Bình", "15 Trần Hưng Đạo, phường Đồng Phú, Tp Đồng Hới, tỉnh Quảng Bình", "549 Lý Thường Kiệt, phường Bắc Lý, Tp Đồng Hới, tỉnh Quảng Bình"],
+	  "Thị xã Ba Đồn": ["Cửa hàng nhận thưởng", "340 Quang Trung, phường Ba Đồn, thị xã Ba Đồn, tỉnh Quảng Bình "]
+	  },
+  "Quảng Nam":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Tam Kỳ": ["Cửa hàng nhận thưởng", "276 Hùng Vương, phường An Xuân, Tp Tam Kỳ, tỉnh Quảng Nam", "168 Phan Chu Trinh, phường Phước Hòa, Tp Tam Kỳ, tỉnh Quảng Nam"],
+	  "Thành phố Hội An": ["Cửa hàng nhận thưởng", "610 Hai Bà Trưng, Phường Cẩm Phô, Thành phố Hội An, Quảng Nam"]
+	  },
+  "Quảng Ngãi":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Quảng Ngãi": ["Cửa hàng nhận thưởng", "147 Lê Lợi, phường Chánh Lộ, Tp Quảng Ngãi, tỉnh Quảng Ngãi", "33 Hùng Vương, phường Trần Hưng Đạo, Tp Quảng Ngãi, tỉnh Quảng Ngãi", " 431 Nguyễn Văn Linh, P. Trương Quang Trọng, Tp Quảng Ngãi, Quảng Ngãi"],
+	  "Thị xã Đức Phổ": ["Cửa hàng nhận thưởng", "397 Nguyễn Nghiêm, phường Nguyễn Nghiêm, thị xã Đức Phổ, tỉnh Quảng Ngãi"]
+	  },
+  "Quảng Ninh":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Uông Bí": ["Cửa hàng nhận thưởng", "Số 499 Quang Trung, Phường Quang Trung, TP Uông Bí, Tỉnh Quảng Ninh "],
+	  "Thành phố Hạ Long": ["Cửa hàng nhận thưởng", "Số 75 Kênh Liêm, Phường Bạch Đằng, TP Hạ Long, Tỉnh Quảng Ninh", "Số 2 Nguyễn văn cừ, tổ 2, khu 2, phường Hồng Hà, TP Hạ Long, Quảng Ninh", "Số 401 Hạ Long, Phường Bãi Cháy, TP Hạ Long, tỉnh Quảng Ninh "],
+	  "Thành phố Cẩm Phả": ["Cửa hàng nhận thưởng", "Số 214 Trần Phú, tổ 6 Khu 2A, Phường Cẩm Thành, TP Cẩm Phả, tỉnh Quảng Ninh"],
+	  "Thành phố Móng Cái": ["Cửa hàng nhận thưởng", "Số 13 Trần Phú, Phường Trần Phú, TP Móng Cái, Tỉnh Quảng Ninh"]
+	  },
+  "Quảng Trị":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Đông Hà": ["Cửa hàng nhận thưởng", "98 Quốc lộ 9, phường 1, Tp Đông Hà, tỉnh Quảng Trị", "75 Hùng Vương, Phường 5, TP Đông Hà, Tỉnh Quảng Trị"],
+	  "Thị xã Quảng Trị": ["Cửa hàng nhận thưởng", "236 Trần Hưng Đạo, phường 2, thị xã Quảng Trị, tỉnh Quảng Trị"]
+	  },
+  "Sóc Trăng":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Sóc Trăng": ["Cửa hàng nhận thưởng", "73 Hai Bà Trưng, Khóm 2, Phường 1, Thành phố Sóc Trăng, Tỉnh Sóc Trăng", "11 Hùng Vương, Phường 6, TP Sóc Trăng, tỉnh Sóc Trăng"]
+	  },
+  "Sơn La":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Sơn La": ["Cửa hàng nhận thưởng", "Số 68 Chu Văn Thịnh, Phường Tô Hiệu, TP Sơn La, Tỉnh Sơn La", "Số 82 Trường Chinh, Tổ 4 Phường Quyết Thắng, TP Sơn La, Tỉnh Sơn La"]
+	  },
+  "Tây Ninh":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Tây Ninh": ["Cửa hàng nhận thưởng", "266 Cách Mạng Tháng 8, Khu Phố 2, Phường 2, Thành Phố Tây Ninh, Tỉnh Tây Ninh", "120 Võ Thị Sáu - P.4 - Tp. Tây Ninh, tỉnh Tây Ninh"],
+ 	  "Thị xã Trảng Bàng": ["Cửa hàng nhận thưởng", "92 Nguyễn Văn Rốp, TX.Trảng Bàng, tỉnh Tây Ninh"]
+	  },
+  "Thái Bình":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Thái Bình": ["Cửa hàng nhận thưởng", "Số 227 Hai Bà Trưng, Phường Lê Hồng Phong,  TP Thái Bình, tỉnh Thái Bình", "Số 475 Lý Bôn, tổ 15, phường Kỳ Bá, TP Thái Bình, Tỉnh Thái Bình"]
+	  },
+  "Thái Nguyên":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Thái Nguyên": ["Cửa hàng nhận thưởng", "Số 989 Bắc Cạn, Phường Hoàng Văn Thụ, TP Thái Nguyên, Tỉnh Thái Nguyên", "Số 82 Hoàng Văn Thụ, tổ 22,  Phường Hoàng Văn Thụ, TP Thái Nguyên, Tỉnh Thái Nguyên"],
+	  "Thành phố Phổ Yên": ["Cửa hàng nhận thưởng", "778 Phạm Văn Đồng, tổ dân phố 4, Phường Ba Hàng, TP Phổ Yên, Tỉnh Thái Nguyên"]
+	  },
+  "Thanh Hóa":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Thanh Hóa": ["Cửa hàng nhận thưởng", "699-701-703 Bà Triệu, phường Đông Thọ, Tp Thanh Hóa, tỉnh Thanh Hóa", "23 Lê Lợi, phường Lam Sơn, Tp Thanh Hóa, tỉnh Thanh Hóa", "105 Nguyễn Trãi, phường Ba Đình, Tp Thanh Hóa, tỉnh Thanh Hóa"],
+	  "Thành phố Sầm Sơn": ["Cửa hàng nhận thưởng", "65 Lê Lợi, phường Trường Sơn, Tp Sầm Sơn, tỉnh Thanh Hóa"]
+	  },
+  "Thừa Thiên Huế":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Huế": ["Cửa hàng nhận thưởng", "37 Nguyễn Công Trứ, phường Phú Hội, Tp Huế, tỉnh Thừa Thiên Huế", "17 Trần Hưng Đạo, phường Phú Hòa, Tp Huế, tỉnh Thừa Thiên Huế", "98A Nguyễn Huệ, phường Vĩnh Ninh, Tp Huế, tỉnh Thừa Thiên Huế"]
+	  },
+  "Tiền Giang":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Mỹ Tho": ["Cửa hàng nhận thưởng", "20A Lý Thường Kiệt, Phường 6, Thành phố Mỹ Tho, Tỉnh Tiền Giang", "24B Ấp Bắc, Phường 5, TP.Mỹ Tho, tỉnh Tiền Giang"],
+	  "Thị xã Cai Lậy": ["Cửa hàng nhận thưởng", "125 đường 30/4,Thị xã Cai Lậy, tỉnh Tiền Giang"],
+	  "Thị xã Gò Công": ["Cửa hàng nhận thưởng", "61 Lý Tự Trọng, Khu phố 1, Phường 1, TX Gò Công, tỉnh Tiền Giang"]
+	  },
+  "Trà Vinh":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Trà Vinh": ["Cửa hàng nhận thưởng", "7 Nam Kỳ Khởi Nghĩa, Phường 2, Thành phố Trà Vinh, Tỉnh Trà Vinh", "135 Điện Biên Phủ, Phường 6, Tp.Trà Vinh, Tỉnh Trà Vinh"]
+	  },
+  "Tuyên Quang":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Tuyên Quang": ["Cửa hàng nhận thưởng", "Số 150 Bình Thuận, Phường Tân Quang, TP Tuyên Quang, Tỉnh Tuyên Quang", "Số 318 Quang Trung, Tổ 9, phường Phan Thiết, TP Tuyên Quang, Tỉnh Tuyên Quang"]
+	  },
+  "Vĩnh Long":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Vĩnh Long": ["Cửa hàng nhận thưởng", "100/1, đường 2 tháng 9, Phường 1, Thành phố Vĩnh Long, Tỉnh Vĩnh Long", "78/17 Phó Cơ Điều, Khóm 4, Phường 3, Thành phố Vĩnh Long, Tỉnh Vĩnh Long"]
+	  },
+  "Vĩnh Phúc":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Vĩnh Yên": ["Cửa hàng nhận thưởng", "319A Mê Linh, Phường Liên Bảo, TP Vĩnh Yên, Tỉnh Vĩnh Phúc", "31 Lê Xoay, Phường Ngô Quyền, TP Vĩnh Yên, Tỉnh Vĩnh Phúc"],
+	  "Thành phố Phúc Yên": ["Cửa hàng nhận thưởng", "Số 197 Trưng Trắc, Phường Trưng Trắc, TP Phúc Yên, Tỉnh Vĩnh Phúc"]
+	  },
+  "Yên Bái":  {
+	  "Chọn Quận / Huyện": ["Cửa hàng nhận thưởng"],
+	  "Thành phố Yên Bái": ["Cửa hàng nhận thưởng", "Số 719 Điện Biên, tổ 8, Phường Minh Tân, TP Yên Bái, Tỉnh Yên Bái", " Số 30 Đại lộ Nguyễn Thái Học, Tổ 2, Phường Nguyễn Thái Học, TP Yên Bái, Tỉnh Yên Bái"]
+	  }
+}
