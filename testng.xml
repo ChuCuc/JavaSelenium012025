@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="testcase">
+        <classes>
+            <class name="LuckyDraw.testcase.LuckyDrawTest">
+                <methods>
+                    <include name="OpenBrower"/>
+                    //--------------------------------------------------------------------------------------------------------------//
+                    //----------------------------------CHECK VALIDATE ĐIỀN THÔNG TIN QUAY S QUAY SỐ--------------------------------//
+                    //--------------------------------------------------------------------------------------------------------------//
+<!--                    //Kiểm tra validate trường [Name]-->
+                    <include name="AT_TH_QS_Created_VLD_Name_Default"/>
+                    <include name="AT_TH_QS_Created_VLD_Name_Blank"/>
+                    <include name="AT_TH_QS_Created_VLD_Name_Space"/>
+
+<!--                    //Kiểm tra validate trường [Phone]-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_Default"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_Blank"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_Space"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_9Characters"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_11Characters"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_Different0"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Phone_Wrong_Format"/>-->
+
+<!--                    //Kiểm tra validate trường [Provinces]-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Provinces_Default"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Provinces_Data"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Provinces_Display"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Provinces_Blank"/>-->
+
+<!--                   //Kiểm tra validate trường [Code]-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_Default"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_Blank"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_Space"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_10Characters"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_8Characters"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_SpaceBA"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Code_BlockXSS"/>-->
+
+<!--                    //Kiểm tra validate trường [Rule]-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Rules_Default"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Rules_UnTick"/>-->
+<!--                    <include name="AT_TH_QS_Created_VLD_Rules_Tick"/>-->
+
+                    //-------------------------------------------------------------------------------------------------------------//
+                    //----------------------------------------------QUAY SỐ THÀNH CÔNG---------------------------------------------//
+                    //-------------------------------------------------------------------------------------------------------------//
+
+<!--                    <include name="checkPrize"/>-->
+
+                </methods>
+            </class>
+<!--            <class name="Gcampaign.testcases.GcampaignTest">-->
+<!--                <methods>-->
+
+<!--                    //Kiểm tra validate trường [Username]-->
+<!--                    <include name="AT_GCamp_Login_VLD_User_Default"/>-->
+<!--                    <include name="AT_GCamp_Login_VLD_User_Blank"/>-->
+<!--                    <include name="AT_GCamp_Login_VLD_User_Space"/>-->
+
+<!--                    //Kiểm tra validate trường [Password]-->
+
+<!--                    <include name="AT_GCamp_Login_VLD_Password_Default"/>-->
+<!--                    <include name="AT_GCamp_Login_VLD_Password_Blank"/>-->
+<!--                    <include name="AT_GCamp_Login_VLD_Password_Space"/>-->
+<!--                    <include name="AT_GCamp_Login_Failed_Wrong_UserPass"/>-->
+<!--                    <include name="AT_GCamp_Login_Failed_Blank_UserPass"/>-->
+<!--                    <include name="AT_GCamp_Login_Success"/>-->
+<!--                    <include name="AT_GCamp_Report"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>
